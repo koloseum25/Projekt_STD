@@ -1,4 +1,5 @@
 Arkadiusz Pyras
+Aneta Wieczorke
 
 Polecenia:
 1. Zaloguj się do GitHub
